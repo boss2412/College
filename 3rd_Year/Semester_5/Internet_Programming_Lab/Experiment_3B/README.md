@@ -1,0 +1,2 @@
+# Experimet 3B
+Write a JavaScript program to calculate simple interest. Accept principle amount, rate of interest and number of years from the user. Use function and arrow function to calculate interest.
